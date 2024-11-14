@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&family=Lora:ital,wght@0,400..700;1,400..700&family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&display=swap');
+
+
+div {
+    height: 400px;
+    width: 500px;
+    border: 50px;
+    border-style: outset;
+    border-color: #fc8484;
+    border-radius: 10%;
+   
+
+    text-align: center;
+
+
+    background-image: url(coracao.webp);
+    background-size: cover
+    ;
+   
+    
+ 
+}
+
+p {font-size: 50px;
+    padding:40px;
+    color: rgb(10, 10, 10);
+    font-family: Edu AU VIC WA NT Pre, cursive;
+    font-weight: bold;
+
+}
+
